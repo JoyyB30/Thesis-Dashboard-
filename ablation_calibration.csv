@@ -1,0 +1,5 @@
+model,auc_calibration
+"autoencoder, all 6 features",0.7381
+"isolation forest, all 6 features",0.6543
+autoencoder without wallet and funding (F1-F4),0.5821
+autoencoder without contract structure (F5-F6),0.6916

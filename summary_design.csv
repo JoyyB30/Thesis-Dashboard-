@@ -1,0 +1,5 @@
+Choice,Value
+Observation window (best calibration AUC),1 days
+"Autoencoder (hidden layers, bottleneck)","(16,), 3"
+Label-validated budget / threshold,0.5% / 0.0120
+Reference budget / threshold,1.0% / 0.0008

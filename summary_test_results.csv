@@ -1,0 +1,5 @@
+Model and rule,Detected exploits,95% interval,False-warning rate,Median lead time (h),Window F1
+"Autoencoder, label-validated (main)",19/36 (52.8%),0.37 to 0.68,0.8%,24 (IQR 24 to 24),0.543
+"Autoencoder, reference",19/36 (52.8%),0.37 to 0.68,3.5%,24 (IQR 24 to 24),0.304
+"Isolation forest, label-validated",2/36 (5.6%),0.01 to 0.18,0.2%,8 (IQR 6 to 10),0.009
+"Isolation forest, reference",2/36 (5.6%),0.01 to 0.18,0.4%,8 (IQR 6 to 10),0.035

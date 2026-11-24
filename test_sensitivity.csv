@@ -1,0 +1,6 @@
+subset,detected,detection_rate
+all test attacks,19/36,0.528
+strict tier only,2/6,0.333
+evidence level 'read' only,3/13,0.231
+sender named in the replay code,18/33,0.545
+one attack per distinct wallet,17/34,0.5
